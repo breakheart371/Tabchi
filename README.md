@@ -18,7 +18,7 @@
    [![https://blackandwhiteTM.ml](https://img.shields.io/badge/webpage-blackandwhiteTM-ff69b4.svg)](https://blackandwhiteTMml)
 [![https://t.me/blackandwhiteTM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-blackandwhiteTM-yelowgreen.svg)](https://t.me/blackandwhiteTM)
 
-[![GitHub forks](https://img.shields.io/github/forks/blackandwhiteTM/tdAds.svg?style=plastic)](https://github.com/breakheart371/Tabchi/network)
+[![GitHub forks](https://img.shields.io/github/forks/blackandwhiteTM/Tabchi.svg?style=plastic)](https://github.com/breakheart371/Tabchi/network)
 [![GitHub stars](https://img.shields.io/github/stars/breakheart371/Tabchi.svg?style=plastic)](https://github.com/breakheart371/Tabchi/stargazers)
 
 
