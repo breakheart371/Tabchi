@@ -65,7 +65,9 @@ screen -S nohup ./TD 1
 ### را به ربات خود ارسال کنید help برای دیدن راهنمای ربات کلمه
 ***
 
-## باتشکر از (https://t.me/i_bibak)
+## باتشکر از
+### [bibak](https://t.me/Aa_Bibak)
+
 ### [برنامه نویس](https://t.me/sudo_hacker)
 
 ### [کانال تلگرام](https://t.me/blackandwhiteTM)
