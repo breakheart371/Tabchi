@@ -24,11 +24,50 @@
 
 ***
 
-## Installation guide
-
-   [![https://github.com/breakheart371/Tabchi/wiki/english](https://img.shields.io/badge/Language-English-brightgreen.svg?style=for-the-badge)](https://github.com/breakheart371/Tabchi/wiki/english)
-   
- 
  ## راهنمای نصب
  
-[![https://github.com/breakheart371/Tabchi/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C](https://img.shields.io/badge/Language-Farsi-brightgreen.svg?style=for-the-badge)](https://github.com/breakheart371/Tabchi/wiki/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
+### راهنمای نصب
+
+#### (تست شده و نصب در کاربری روت اوبنتو 16.04 نسخه 64 بیتی (بر پایه دبیان
+
+```
+اول کد زیر را کپی کنید و در ترمینال خود وارد وارسال کنید
+
+   wget https://gitlab.com/snippets/1692177/raw; sudo bash raw
+```
+
+## سپس
+```
+
+cd Tabchi
+
+screen -S nohup ./TD 1
+
+# شناسه عددی مدیر (سودو) ربات را وارد کنید 
+##
+انتخاب کنید api حالت ربات را برای اکانت یا ربات 
+
+### توکن ربات را وارد کنید و برای اکانت شماره تلفن و کد ورود را وارد کنید 
+####
+( +دقت کنید که شماره را بدون فاصله وارد کنید (برای مثال : 989179139209
+```
+
+## اجرا میشود و این به این معنیست که بعد از بستن سرور ربات شما خاموش نمیشود tmux ربات پس از ساخته شدن و اجرا در حالت
+
+## هم اجرا شود `screen` اما پیشنهاد میشود که همزمان بصورت
+```
+screen -S nohup ./TD 1
+```
+شما میتوانید اعداد 1 تا 9 را جایگزین کنید و ربات جدید بسازید
+***
+
+## دستور العمل ربات 
+
+### را به ربات خود ارسال کنید help برای دیدن راهنمای ربات کلمه
+***
+
+## باتشکر از (https://t.me/i_bibak)
+### [برنامه نویس](https://t.me/sudo_hacker)
+
+### [کانال تلگرام](https://t.me/blackandwhiteTM)
+***
